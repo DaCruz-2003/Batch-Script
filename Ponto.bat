@@ -24,4 +24,5 @@ echo Hora de bater o ponto!
 
 timeout /t 3 > nul
 
-start msedge.exe "https://castgroup.izeus.com.br/ponto/localizador/padrao"
+
+start msedge.exe "SITE PARA REALIZAR O REGISTRO DO PONTO"
